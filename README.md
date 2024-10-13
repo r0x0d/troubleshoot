@@ -10,3 +10,7 @@ I'm tired of fixing the same problem over and over again.
 
 - In case the fingerprint option does not show up in GNOME
   - https://discussion.fedoraproject.org/t/fingerprint-reader-does-not-work/104739/3
+
+## Mesa Drivers (AMD)  
+- KDE: In case screen is going black while in fullscreen, try disabling Adaptative Sync
+  - https://discussion.fedoraproject.org/t/fedora-40-nvidia-gpu-wayland-intermittent-black-screen-with-full-screen-applications/130770/7
