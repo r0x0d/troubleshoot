@@ -14,3 +14,8 @@ I'm tired of fixing the same problem over and over again.
 ## Mesa Drivers (AMD)  
 - KDE: In case screen is going black while in fullscreen, try disabling Adaptative Sync
   - https://discussion.fedoraproject.org/t/fedora-40-nvidia-gpu-wayland-intermittent-black-screen-with-full-screen-applications/130770/7
+
+## Godot
+
+- In case godot is not opening using nvidia gpu, this can help:
+  - https://forum.godotengine.org/t/unable-to-use-nvidia-gpu-with-godot-4-3-under-linux/80124/6
