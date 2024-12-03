@@ -28,5 +28,7 @@ I'm tired of fixing the same problem over and over again.
 - Git clone hangs on receiving objects or any other ssh operation
   - This fixes it: https://stackoverflow.com/a/79075865
  
-## EditorConfig
+## Tooling
+
+### EditorConfig
 - If you ever bumped in a situation where your editor keeps adding newline after you edit a markdown file, it may be because of this https://stackoverflow.com/a/67752027
