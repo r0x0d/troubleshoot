@@ -32,3 +32,6 @@ I'm tired of fixing the same problem over and over again.
 
 ### EditorConfig
 - If you ever bumped in a situation where your editor keeps adding newline after you edit a markdown file, it may be because of this https://stackoverflow.com/a/67752027
+
+### VSCode
+- VSCode remote development hangs with ssh timeout: https://stackoverflow.com/a/62038186
