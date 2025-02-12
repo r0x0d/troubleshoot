@@ -35,3 +35,7 @@ I'm tired of fixing the same problem over and over again.
 
 ### VSCode
 - VSCode remote development hangs with ssh timeout: https://stackoverflow.com/a/62038186
+
+### SSH
+- To log-in to that server configured in .ssh/config, one must add this to their `.bashrc[_logout]` in order to auto `ssh-add`
+  - https://unix.stackexchange.com/a/90869
