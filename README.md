@@ -21,6 +21,11 @@ I'm tired of fixing the same problem over and over again.
 
 - In case godot is not opening using nvidia gpu, this can help:
   - https://forum.godotengine.org/t/unable-to-use-nvidia-gpu-with-godot-4-3-under-linux/80124/6
+ 
+### Emacs
+
+- Doom emacs is not loading on startup
+  - https://github.com/doomemacs/doomemacs/issues/7292#issuecomment-1630204067
 
 ## Windows
 
